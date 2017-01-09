@@ -1,0 +1,66 @@
+Print Stack: 
+listHead  --> (0,1) --> (1,2) --> (2,3) --> (3,4) --> (4,5) --> (5,6) --> (6,7) --> (7,8) --> (8,9) --> (9,10) --> (10,-1)
+
+Print currentTable: 
+Queue [0] listHead  --> (-9999,0) --> (0,10) --> (10,-1)
+
+Queue [1] listHead  --> (-9999,1) --> (1,-1)
+
+Queue [2] listHead  --> (-9999,2) --> (2,-1)
+
+Queue [3] listHead  --> (-9999,3) --> (3,-1)
+
+Queue [4] listHead  --> (-9999,4) --> (4,-1)
+
+Queue [5] listHead  --> (-9999,5) --> (5,-1)
+
+Queue [6] listHead  --> (-9999,6) --> (6,-1)
+
+Queue [7] listHead  --> (-9999,7) --> (7,-1)
+
+Queue [8] listHead  --> (-9999,8) --> (8,-1)
+
+Queue [9] listHead  --> (-9999,9) --> (9,-1)
+
+Print previousTable: 
+Queue [0] listHead  --> (-9999,0) --> (0,10) --> (10,-1)
+
+Queue [1] listHead  --> (-9999,1) --> (1,-1)
+
+Queue [2] listHead  --> (-9999,2) --> (2,-1)
+
+Queue [3] listHead  --> (-9999,3) --> (3,-1)
+
+Queue [4] listHead  --> (-9999,4) --> (4,-1)
+
+Queue [5] listHead  --> (-9999,5) --> (5,-1)
+
+Queue [6] listHead  --> (-9999,6) --> (6,-1)
+
+Queue [7] listHead  --> (-9999,7) --> (7,-1)
+
+Queue [8] listHead  --> (-9999,8) --> (8,-1)
+
+Queue [9] listHead  --> (-9999,9) --> (9,-1)
+
+Final Result: 
+Queue [0] listHead  --> (-9999,0) --> (0,1) --> (1,2) --> (2,3) --> (3,4) --> (4,5) --> (5,6) --> (6,7) --> (7,8) --> (8,9) --> (9,-1)
+
+Queue [1] listHead  --> (-9999,10) --> (10,-1)
+
+Queue [2] listHead  --> (-9999,-1)
+
+Queue [3] listHead  --> (-9999,-1)
+
+Queue [4] listHead  --> (-9999,-1)
+
+Queue [5] listHead  --> (-9999,-1)
+
+Queue [6] listHead  --> (-9999,-1)
+
+Queue [7] listHead  --> (-9999,-1)
+
+Queue [8] listHead  --> (-9999,-1)
+
+Queue [9] listHead  --> (-9999,-1)
+
